@@ -112,7 +112,7 @@ ul li a:hover{
     background:var(--surfaceColorHover);
     border: 1.5px solid var(--textColor);
 }
- .fa-brands,.fa-solid{
+.fa, .fa-brands, .fa-classic, .fa-regular, .fa-sharp, .fa-solid, .fab, .far, .fas{
     margin-right: 10px;
 } 
 #social-links{
